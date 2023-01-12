@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Eremenko_lab3_prlan/1.0.0": {
+        "runtime": {
+          "Eremenko_lab3_prlan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eremenko_lab3_prlan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

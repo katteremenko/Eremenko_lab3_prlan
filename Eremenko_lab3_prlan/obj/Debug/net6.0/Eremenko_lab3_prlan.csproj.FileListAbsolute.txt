@@ -1,0 +1,15 @@
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\bin\Debug\net6.0\Eremenko_lab3_prlan.exe
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\bin\Debug\net6.0\Eremenko_lab3_prlan.deps.json
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\bin\Debug\net6.0\Eremenko_lab3_prlan.runtimeconfig.json
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\bin\Debug\net6.0\Eremenko_lab3_prlan.dll
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\bin\Debug\net6.0\Eremenko_lab3_prlan.pdb
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\obj\Debug\net6.0\Eremenko_lab3_prlan.csproj.AssemblyReference.cache
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\obj\Debug\net6.0\Eremenko_lab3_prlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\obj\Debug\net6.0\Eremenko_lab3_prlan.AssemblyInfoInputs.cache
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\obj\Debug\net6.0\Eremenko_lab3_prlan.AssemblyInfo.cs
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\obj\Debug\net6.0\Eremenko_lab3_prlan.csproj.CoreCompileInputs.cache
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\obj\Debug\net6.0\Eremenko_lab3_prlan.dll
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\obj\Debug\net6.0\refint\Eremenko_lab3_prlan.dll
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\obj\Debug\net6.0\Eremenko_lab3_prlan.pdb
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\obj\Debug\net6.0\Eremenko_lab3_prlan.genruntimeconfig.cache
+C:\Users\katte\katt\4 курс\яп\Eremenko_lab3_prlan\Eremenko_lab3_prlan\obj\Debug\net6.0\ref\Eremenko_lab3_prlan.dll
